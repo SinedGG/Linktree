@@ -7,5 +7,5 @@
 
 - HTML5
 - CSS3
-- -JS
+- JS
 <h1 align="center"> Made with 💖 by Sined.</h1>
